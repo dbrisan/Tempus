@@ -1,0 +1,9 @@
+{
+    "tab1": {
+        "tabName": "Tab 1 aquí",
+        "invite": "Ha seleccionado {{lang}} como idioma.",
+        "languageChangePlaceholder": "Cambiar el idioma."
+    },
+    "languageCaption": "Idioma",
+    "get_started": "Adelante!"
+}
